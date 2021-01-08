@@ -8,11 +8,7 @@
 
 ## How to search
 
-1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。（推荐方法）
-
-2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
-
-3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
+将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
 
 `$ grep -nri [搜索词] essays | cat --number`
 
@@ -20,10 +16,10 @@
 
 ##### 一月
 
-- chapter-2：[](https://mp.weixin.qq.com/s/xW4QREgUAByg5s_RWSwZSQ)
+- chapter-2：[《正经人谁写日记啊》](https://gitee.com/-/ide/project/MaricoCheung/essay/edit/master/-/essays/%E3%80%8A%E6%AD%A3%E7%BB%8F%E4%BA%BA%E8%B0%81%E5%86%99%E6%97%A5%E8%AE%B0%E5%95%8A%E3%80%8B.md)
 
 ## 2020
 
 ##### 十二月
 
-- chapter-1：[](https://mp.weixin.qq.com/s/xW4QREgUAByg5s_RWSwZSQ)
+- chapter-1：[《长翅膀的马里奥》](https://gitee.com/MaricoCheung/essay/blob/master/essays/%E3%80%8A%E9%95%BF%E7%BF%85%E8%86%80%E7%9A%84%E9%A9%AC%E9%87%8C%E5%A5%A5%E3%80%8B.md)
